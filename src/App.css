@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+
+.movies-list {
+  color: white;
+  text-align: center;
+}
